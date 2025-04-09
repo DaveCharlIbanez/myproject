@@ -1,0 +1,82 @@
+.body{
+    margin: auto;
+    padding: 0;
+    
+
+}
+.body, html{
+    background-image: url('OIP.png');
+    background-repeat:no-repeat ;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+}
+header{
+    color: rgb(17, 12, 4);
+    font-size: 20px;
+    padding: 1px ;
+    background-color: rgb(18, 197, 197);
+    box-sizing: border-box 100px;
+    flex-shrink: 5;
+    color: rgb(140, 255, 8);
+    background-image: url("dave.png");
+    background-size: cover;
+    background-repeat: no-repeat,repeat;
+    background-position: 5%;
+    
+    
+
+}
+ul,li,a{
+    text-decoration: none;
+    display: flex;
+    margin: 20px;
+    padding-left: 10px;
+    color: rgb(6, 213, 250);  
+    align-items: flex-start;
+    margin-right: 30px;
+    margin-left: 55px;
+    font-size: large ;
+    font: bolder;
+    padding-left: 0px;
+    padding-right: 10px;
+    
+}
+li{
+    border-radius: 50px ;
+    border-color: aliceblue;
+    border: 2px solid rgb(12, 11, 10) ;
+    background-color: rgb(224, 188, 121);
+}
+ul,li,a:hover{
+    color: rgb(47, 17, 216);
+}
+
+
+.nav.bar{
+  margin-right: 100px;
+}
+.searchbar{
+    margin-top: 35px;
+    margin-left: 20px;
+    
+}
+.texts{
+    margin-left: 50px;
+}
+.new{
+    border: 1px solid black;
+    width: 150px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.offes1{
+    margin-top: 10px;
+    border: 2px solid black;
+    width: 350px;
+    border-radius: 20   px;
+}
+.pics{
+    width: 100px;
+    margin-left:200px ;   
+}
